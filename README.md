@@ -16,4 +16,4 @@ The possible alignments are:
 - MUSE LU centroid similarity (id: lu_mean_muse): Cosine similarity between the frames' LU centroids.
 - MUSE definition centroid similarity (id: frame_def_muse): Cosine similarity between the average vector of the frames' definitions.
 
-The json can be [downloaded from here] (https://drive.google.com/open?id=1Xmprwe0SndaI9SUSkkvndwQY_Fro6qjm), as a zip file.
+The json can be [downloaded from here](https://drive.google.com/open?id=1Xmprwe0SndaI9SUSkkvndwQY_Fro6qjm), as a zip file.
