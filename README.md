@@ -15,3 +15,5 @@ The possible alignments are:
 - LU translations using MUSE (id: lu_muse_k_t): Percentage of matching LUs in the english frame. A matching LU is any LU that neighbors one of the l2 LUs in MUSE representation space. The neighborhood size (k) and minimum similarity (t) can be changed.
 - MUSE LU centroid similarity (id: lu_mean_muse): Cosine similarity between the frames' LU centroids.
 - MUSE definition centroid similarity (id: frame_def_muse): Cosine similarity between the average vector of the frames' definitions.
+
+The json can be [downloaded from here{https://drive.google.com/open?id=1Xmprwe0SndaI9SUSkkvndwQY_Fro6qjm}], as a zip file.
